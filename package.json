@@ -1,0 +1,19 @@
+{
+  "name": "detect-wechat-js",
+  "version": "0.0.0",
+  "description": "Determine whether the browser is a WeChat built-in browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lucknessbuaa/detect-wechat-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucknessbuaa/detect-wechat-js/issues"
+  },
+  "homepage": "https://github.com/lucknessbuaa/detect-wechat-js"
+}
