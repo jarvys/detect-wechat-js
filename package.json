@@ -1,5 +1,5 @@
 {
-  "name": "detect-wechat-js",
+  "name": "detect-watch",
   "version": "0.0.0",
   "description": "Determine whether the browser is a WeChat built-in browser",
   "main": "index.js",
