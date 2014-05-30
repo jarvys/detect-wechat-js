@@ -1,7 +1,7 @@
 {
   "name": "detect-wechat-js",
   "version": "0.0.0",
-  "description": "detect-wechat-js ================",
+  "description": "Determine whether the browser is a WeChat built-in browser",
   "main": "detect_wechat.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
